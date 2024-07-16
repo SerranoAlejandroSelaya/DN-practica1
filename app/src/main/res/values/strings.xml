@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dn</string>
+    <string name="default_notification_channel_id">default chanel</string>
+</resources>
